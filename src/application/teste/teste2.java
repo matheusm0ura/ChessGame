@@ -1,4 +1,4 @@
-package model.exception.teste;
+package application.teste;
 
 public class teste2 {
     public static void main(String[] args) {
