@@ -1,4 +1,4 @@
-package model.exception;
+package model.exception.classes;
 
 public class Teste {
     public static void main(String[] args) {
